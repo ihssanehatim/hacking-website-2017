@@ -1,0 +1,318 @@
+#logo{
+	
+	width:80%;
+	height:60%;
+	position:right;
+	margin-top:2.5%;
+	padding-left:0%;
+}
+body{
+background-color:black;
+ color:white;
+ 
+}
+widget {margin-bottom: 1.75em;
+position:left;
+
+}
+div.absolute{
+    top:0;
+    right: 0;
+    width:15%;
+    height:100%;
+	margin-top:0px;
+    border-radius: 5px;
+    background-color:black;
+    padding: 20px;
+	color:black;
+	margin:0px;
+	position:fixed;
+}
+div.gallery {
+    margin:3%;
+    border: 2px solid white;
+    width:50%;
+	position:center;
+	float:left;
+
+	
+}
+
+div.gallery:hover {
+    border: 4px solid white;
+}
+
+div.gallery img {
+    width:100%;
+    height:auto;
+	position:center;
+}
+
+div.desc {
+	border:white;
+    padding:6px;
+	color:black;
+    text-align: center;
+	background-color:white !important;
+}
+input[type=text], select {
+   
+   width: 100%;
+    padding: 12px 20px;
+    margin: 0% 0%;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+	
+}
+input[type=password], select {
+   
+   width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=email], select {
+   
+   width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color:red !important;
+    color: white !important;
+    padding: 14px 20px;
+    margin: 12px 2px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+	font-weight:bold;
+	}
+
+
+.content{
+    bottom: 0;
+    color: #f1f1f1;
+    width: 100%;
+    padding:10px;
+	position:center;
+}
+.tes{color:red !important;
+position:center;
+    animation: Test 3s infinite;
+	margin-top:0%;
+}
+@keyframes Test{
+    20%{opacity: 1;}
+    30%{opacity: 0;}
+    50%{opacity: 1;}
+}
+#gal1{padding-left:10%;
+    font-family:Arial;
+	font-size:20px;
+	margin-top:10%;
+	padding-right:50%;
+}
+#gal{padding-left:10%;
+    font-family:Arial;
+	font-size:20px;
+	padding-right:50%;
+	float:right;
+	
+}
+
+.h{
+	padding-left: 3%;
+	padding-right:35%;
+	position:center !important;
+	
+}
+.bann{
+	margin:0px;
+	width:70%;
+	height:60%;
+	padding-left:10%;
+
+	
+}
+.connect
+{    
+   background-color:#DF0101;
+   display:block;
+	overflow:hidden;
+	 margin-top:0%;
+	 font-family:Arial;
+	 font-size:20px;
+	 color:white;
+	 text-transform:uppercase;
+     float:right;
+   padding-top:7px;
+  padding-left:5px;
+    text-decoration: none;
+	position:fixed;
+        height:5%;
+    width:100%;
+	display:inline-block;
+     
+	margin-right:10%;
+	
+	}
+.connect :hover
+{
+   margin-bottom:50%;
+}
+
+		
+ a#connec:hover 
+{
+  color:gray;
+  font-size:150% ;
+  
+}	
+ a#connec1:hover 
+{
+  color:#C12626;
+  font-size:150% ;
+  
+}	
+
+
+	
+#connec
+{
+	margin-left:7%;
+	text-decoration:none;
+	color:#BDBDBD;
+}#connec1
+{
+	font-size:120%;
+	text-decoration:none;
+	color:#E83E3E;
+	padding-left:7%;
+
+}
+
+
+.version
+{
+clear:both;
+padding-top:5%;
+position:center;
+padding-bottom:3%;	
+	
+	
+}	
+
+
+#logo1
+{   
+   padding-top:3%;
+	position:center;
+	width:90%;
+	height:70%;
+	
+	
+}
+
+
+h5
+{
+	color:orange;
+	padding-right:20%;
+	font-family:goudy;
+	font-size:200%;
+	padding-left:20%;
+	
+}
+#imagenews
+
+{
+padding-left:20%;
+display:inline-table;
+width:50%;
+height:50%;
+
+}
+#imagenews:hover
+{
+	width:55%;
+	height:55%;
+}	
+span
+{
+	position:center;
+	padding-right:30%;
+	margin-left:20%;
+	padding-top:2%;
+	padding-bottom:5%;
+	float:left;
+	clear:both;
+	font-size:110%;
+	word-spacing:7px;
+	
+}
+
+
+
+#chihaja
+{
+	
+	display:block;
+	
+}
+
+object
+{
+  padding-left:2%;
+}
+
+#cookies
+{
+	padding-left:20%;
+	padding-right:20%;
+	padding-top : 2%;
+	word-spacing:5px;
+    font-family:goudy;
+	font-size:120%;
+	line-height:150%;
+	color:#F0DADB;
+}
+	
+#ihssane
+{
+	color:red;
+	text-decoration : none;
+	
+}
+#ihssane:hover{
+
+             font-size:120%;
+			 color:green;
+}
+#ihssane:visited
+{
+	color:gray;
+}
+
+.hello
+{
+	padding-right: 30%;
+	padding-left : 30%;
+	
+}
